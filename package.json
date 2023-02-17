@@ -1,0 +1,22 @@
+{
+  "name": "w9c",
+  "version": "1.0.0",
+  "description": "Read me node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewMax/Readme-generator.git"
+  },
+  "author": "Drew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrewMax/Readme-generator/issues"
+  },
+  "homepage": "https://github.com/DrewMax/Readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
